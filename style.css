@@ -125,3 +125,19 @@ a.header-tag:hover {
     margin: 0px;
     padding-top: 15px;
 }
+
+#contacts {
+    margin: 0px auto;
+    width: 45%;
+}
+
+#contacts em {
+    color: blue;
+}
+
+#comment-form {
+    font-size: 15px;
+    padding: 15px;
+    background-image: url('images/form-background.jpg');
+    background-size: cover;
+}
