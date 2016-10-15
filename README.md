@@ -1,5 +1,3 @@
 # personal-page
-Web Application Development Lab1
-Name: Do Quoc Thinh
-
-This is my first project, a personal page, for the course Web Application Development at my current university.
+Course: Web Application Development - Lab1: Personal Page
+Requirements: using Frames, Images, Links and all components of a form; using CSS to decorate the page.
